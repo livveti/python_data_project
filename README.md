@@ -302,7 +302,6 @@ This project provided several general insights into the data job market for anal
 - Correlation between Skill and Salary: While specialized technical skills may have fewer job postings, they can offer higher salaries, making them the next step for increasing salary potential.
 
 - Market Trend of Skills: As data roles evolve with the industry, skills may change faster than ever. Keeping up with the market is crucial for career growth.
-- 
 
 # Challenges I Encountered
 As a beginner, here are the challenges I encountered along the way:
